@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tasks>
     <task id="1">
-        <title>Learn PHP</title>
+        <title>Hello World :)</title>
         <status>incomplete</status>
     </task>
     <task id="2">
-        <title>Learn JavaScript</title>
+        <title>This might be a todo list</title>
         <status>complete</status>
     </task>
-<task id="1727684176"><title>TEST</title><status>incomplete</status></task><task id="1727684185"><title>TESS</title><status>incomplete</status></task><task id="1727684189"><title>TESE</title><status>incomplete</status></task></tasks>
+</tasks>
