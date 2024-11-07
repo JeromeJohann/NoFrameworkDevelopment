@@ -4,8 +4,5 @@
         <title>Hello World :)</title>
         <status>incomplete</status>
     </task>
-    <task id="2">
-        <title>This might be a todo list</title>
-        <status>complete</status>
-    </task>
+    
 </tasks>
